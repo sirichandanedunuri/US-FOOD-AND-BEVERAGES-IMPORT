@@ -1,0 +1,267 @@
+Food_Type_Number,Food_Type,Food_Group,Year,ImportQuantity_In_1000metrictons,Annual_Growth_In_ImportQuantity,Import_Value_In_MillionDollars,Annual_Growth_In_ImportValue
+1,Live meat animals,Animal foods,1999,"6,058.40",0,"1,189.70",0
+1,Live meat animals,Animal foods,2000,"6,521.80",7.6,"1,419.00",19.3
+1,Live meat animals,Animal foods,2001,"7,758.10",19,"1,771.20",24.8
+1,Live meat animals,Animal foods,2002,"8,302.90",7,"1,723.90",-2.7
+1,Live meat animals,Animal foods,2003,"9,223.20",11.1,"1,276.70",-25.9
+1,Live meat animals,Animal foods,2004,"9,866.30",7,"1,134.30",-11.2
+1,Live meat animals,Animal foods,2005,"9,951.90",0.9,"1,672.00",47.4
+1,Live meat animals,Animal foods,2006,"10,985.50",10.4,"2,172.00",29.9
+1,Live meat animals,Animal foods,2007,"12,419.50",13.1,"2,588.00",19.2
+1,Live meat animals,Animal foods,2008,"11,558.60",-6.9,"2,266.40",-12.4
+1,Live meat animals,Animal foods,2009,"8,350.00",-27.8,"1,655.50",-27
+1,Live meat animals,Animal foods,2010,"7,997.60",-4.2,"2,007.10",21.2
+1,Live meat animals,Animal foods,2011,"7,872.70",-1.6,"1,886.50",-6
+1,Live meat animals,Animal foods,2012,"7,909.80",0.5,"2,192.00",16.2
+1,Live meat animals,Animal foods,2013,"6,947.30",-12.2,"2,190.20",-0.1
+1,Live meat animals,Animal foods,2014,"7,232.60",4.1,"3,008.60",37.4
+1,Live meat animals,Animal foods,2015,"7,661.20",5.9,"2,772.50",-7.8
+1,Live meat animals,Animal foods,2016,"7,335.20",-4.3,"2,102.90",-24.2
+1,Live meat animals,Animal foods,2017,"7,365.60",0.4,"2,020.00",-3.9
+2,Meats,Animal foods,1999,"1,439.60",0,"3,260.50",0
+2,Meats,Animal foods,2000,"1,578.10",9.6,"3,827.70",17.4
+2,Meats,Animal foods,2001,"1,634.00",3.5,"4,256.20",11.2
+2,Meats,Animal foods,2002,"1,700.00",4,"4,283.50",0.6
+2,Meats,Animal foods,2003,"1,659.20",-2.4,"4,426.80",3.3
+2,Meats,Animal foods,2004,"1,839.30",10.9,"5,718.50",29.2
+2,Meats,Animal foods,2005,"1,797.10",-2.3,"5,751.90",0.6
+2,Meats,Animal foods,2006,"1,627.40",-9.4,"5,243.60",-8.8
+2,Meats,Animal foods,2007,"1,628.20",0.1,"5,367.30",2.4
+2,Meats,Animal foods,2008,"1,411.50",-13.3,"5,059.80",-5.7
+2,Meats,Animal foods,2009,"1,445.40",2.4,"4,612.10",-8.8
+2,Meats,Animal foods,2010,"1,371.50",-5.1,"5,087.80",10.3
+2,Meats,Animal foods,2011,"1,270.10",-7.4,"5,755.20",13.1
+2,Meats,Animal foods,2012,"1,336.60",5.2,"6,245.20",8.5
+2,Meats,Animal foods,2013,"1,400.50",4.8,"6,529.80",4.6
+2,Meats,Animal foods,2014,"1,720.20",22.8,"8,940.40",36.9
+2,Meats,Animal foods,2015,"1,943.60",13,"9,991.70",11.8
+2,Meats,Animal foods,2016,"1,825.80",-6.1,"8,589.10",-14
+2,Meats,Animal foods,2017,"1,848.20",1.2,"8,877.60",3.4
+3,Fish and shellfish,Animal foods,1999,"1,677.80",0,"8,859.80",0
+3,Fish and shellfish,Animal foods,2000,"1,710.90",2,"9,879.80",11.5
+3,Fish and shellfish,Animal foods,2001,"1,755.20",2.6,"9,663.30",-2.2
+3,Fish and shellfish,Animal foods,2002,"1,898.30",8.2,"9,963.30",3.1
+3,Fish and shellfish,Animal foods,2003,"2,078.60",9.5,"10,859.90",9
+3,Fish and shellfish,Animal foods,2004,"2,116.70",1.8,"11,106.30",2.3
+3,Fish and shellfish,Animal foods,2005,"2,196.10",3.8,"11,840.20",6.6
+3,Fish and shellfish,Animal foods,2006,"2,313.70",5.4,"13,112.30",10.7
+3,Fish and shellfish,Animal foods,2007,"2,284.60",-1.3,"13,434.60",2.5
+3,Fish and shellfish,Animal foods,2008,"2,250.40",-1.5,"13,912.00",3.6
+3,Fish and shellfish,Animal foods,2009,"2,246.80",-0.2,"12,933.90",-7
+3,Fish and shellfish,Animal foods,2010,"2,342.00",4.2,"14,516.70",12.2
+3,Fish and shellfish,Animal foods,2011,"2,345.60",0.2,"16,459.40",13.4
+3,Fish and shellfish,Animal foods,2012,"2,361.50",0.7,"16,467.50",0
+3,Fish and shellfish,Animal foods,2013,"2,378.40",0.7,"17,784.30",8
+3,Fish and shellfish,Animal foods,2014,"2,450.00",3,"20,053.50",12.8
+3,Fish and shellfish,Animal foods,2015,"2,496.90",1.9,"18,520.80",-7.6
+3,Fish and shellfish,Animal foods,2016,"2,553.70",2.3,"19,260.70",4
+3,Fish and shellfish,Animal foods,2017,"2,623.10",2.7,"21,324.10",10.7
+4,Dairy,Animal foods,1999,242.5,0,930.3,0
+4,Dairy,Animal foods,2000,226.9,-6.4,922.3,-0.9
+4,Dairy,Animal foods,2001,272.1,19.9,995.8,8
+4,Dairy,Animal foods,2002,270.3,-0.7,"1,008.80",1.3
+4,Dairy,Animal foods,2003,265.4,-1.8,"1,110.30",10.1
+4,Dairy,Animal foods,2004,283.1,6.7,"1,292.30",16.4
+4,Dairy,Animal foods,2005,289.3,2.2,"1,388.40",7.4
+4,Dairy,Animal foods,2006,276.6,-4.4,"1,405.70",1.2
+4,Dairy,Animal foods,2007,268.8,-2.8,"1,500.80",6.8
+4,Dairy,Animal foods,2008,224.7,-16.4,"1,595.60",6.3
+4,Dairy,Animal foods,2009,224,-0.3,"1,353.40",-15.2
+4,Dairy,Animal foods,2010,187.1,-16.5,"1,347.20",-0.5
+4,Dairy,Animal foods,2011,187,0,"1,502.10",11.5
+4,Dairy,Animal foods,2012,209.8,12.2,"1,604.20",6.8
+4,Dairy,Animal foods,2013,194.5,-7.3,"1,649.10",2.8
+4,Dairy,Animal foods,2014,224,15.2,"1,844.30",11.8
+4,Dairy,Animal foods,2015,276.2,23.3,"1,893.50",2.7
+4,Dairy,Animal foods,2016,300.3,8.7,"1,875.80",-0.9
+4,Dairy,Animal foods,2017,281,-6.4,"1,827.20",-2.6
+5,Vegetables,Plant Foods,1999,"4,784.90",0,"3,631.60",0
+5,Vegetables,Plant Foods,2000,"4,746.90",-0.8,"3,771.40",3.8
+5,Vegetables,Plant Foods,2001,"5,125.40",8,"4,156.60",10.2
+5,Vegetables,Plant Foods,2002,"5,566.70",8.6,"4,391.10",5.6
+5,Vegetables,Plant Foods,2003,"5,939.60",6.7,"5,082.40",15.7
+5,Vegetables,Plant Foods,2004,"6,227.90",4.9,"5,730.00",12.7
+5,Vegetables,Plant Foods,2005,"6,359.10",2.1,"6,043.10",5.5
+5,Vegetables,Plant Foods,2006,"6,614.00",4,"6,619.30",9.5
+5,Vegetables,Plant Foods,2007,"7,198.00",8.8,"7,256.00",9.6
+5,Vegetables,Plant Foods,2008,"7,344.00",2,"7,800.60",7.5
+5,Vegetables,Plant Foods,2009,"7,326.40",-0.2,"7,525.20",-3.5
+5,Vegetables,Plant Foods,2010,"8,113.50",10.7,"8,705.60",15.7
+5,Vegetables,Plant Foods,2011,"8,476.10",4.5,"9,666.60",11
+5,Vegetables,Plant Foods,2012,"8,690.70",2.5,"9,945.60",2.9
+5,Vegetables,Plant Foods,2013,"9,046.70",4.1,"10,733.50",7.9
+5,Vegetables,Plant Foods,2014,"9,633.00",6.5,"10,929.70",1.8
+5,Vegetables,Plant Foods,2015,"9,819.80",1.9,"11,290.20",3.3
+5,Vegetables,Plant Foods,2016,"10,676.20",8.7,"12,469.20",10.4
+5,Vegetables,Plant Foods,2017,"11,161.70",4.5,"12,743.00",2.2
+6,Fruits,Plant Foods,1999,"8,193.90",0,"4,764.50",0
+6,Fruits,Plant Foods,2000,"8,094.50",-1.2,"4,629.50",-2.8
+6,Fruits,Plant Foods,2001,"7,887.90",-2.6,"4,665.20",0.8
+6,Fruits,Plant Foods,2002,"8,446.80",7.1,"5,067.60",8.6
+6,Fruits,Plant Foods,2003,"8,772.50",3.9,"5,557.70",9.7
+6,Fruits,Plant Foods,2004,"8,822.50",0.6,"5,962.40",7.3
+6,Fruits,Plant Foods,2005,"9,277.40",5.2,"6,873.80",15.3
+6,Fruits,Plant Foods,2006,"9,609.80",3.6,"7,707.10",12.1
+6,Fruits,Plant Foods,2007,"10,395.90",8.2,"9,217.30",19.6
+6,Fruits,Plant Foods,2008,"10,259.70",-1.3,"9,888.20",7.3
+6,Fruits,Plant Foods,2009,"9,999.90",-2.5,"9,639.80",-2.5
+6,Fruits,Plant Foods,2010,"10,635.00",6.4,"10,649.00",10.5
+6,Fruits,Plant Foods,2011,"10,941.90",2.9,"11,973.90",12.4
+6,Fruits,Plant Foods,2012,"11,570.60",5.7,"12,537.90",4.7
+6,Fruits,Plant Foods,2013,"12,395.50",7.1,"13,602.30",8.5
+6,Fruits,Plant Foods,2014,"12,654.80",2.1,"14,807.70",8.9
+6,Fruits,Plant Foods,2015,"13,445.70",6.2,"15,954.90",7.7
+6,Fruits,Plant Foods,2016,"13,794.60",2.6,"17,157.00",7.5
+6,Fruits,Plant Foods,2017,"14,201.80",3,"18,383.10",7.1
+7,Nuts,Plant Foods,1999,271.9,0,793.9,0
+7,Nuts,Plant Foods,2000,312.4,14.9,808.7,1.9
+7,Nuts,Plant Foods,2001,315.9,1.1,670.2,-17.1
+7,Nuts,Plant Foods,2002,332.6,5.3,700.5,4.5
+7,Nuts,Plant Foods,2003,309.9,-6.8,775.6,10.7
+7,Nuts,Plant Foods,2004,334.8,8,"1,078.40",39
+7,Nuts,Plant Foods,2005,326.5,-2.5,"1,121.90",4
+7,Nuts,Plant Foods,2006,325.8,-0.2,"1,099.40",-2
+7,Nuts,Plant Foods,2007,352.5,8.2,"1,181.40",7.5
+7,Nuts,Plant Foods,2008,339.4,-3.7,"1,350.70",14.3
+7,Nuts,Plant Foods,2009,356,4.9,"1,278.30",-5.4
+7,Nuts,Plant Foods,2010,357.7,0.5,"1,461.70",14.3
+7,Nuts,Plant Foods,2011,357.6,0,"1,863.20",27.5
+7,Nuts,Plant Foods,2012,441.2,23.4,"1,999.60",7.3
+7,Nuts,Plant Foods,2013,425.8,-3.5,"2,000.20",0
+7,Nuts,Plant Foods,2014,472.7,11,"2,360.50",18
+7,Nuts,Plant Foods,2015,507.3,7.3,"2,767.30",17.2
+7,Nuts,Plant Foods,2016,514.1,1.3,"2,870.80",3.7
+7,Nuts,Plant Foods,2017,545.1,6,"3,300.60",15
+8,"Coffee, tea, and spices",Plant Foods,1999,"1,650.70",0,"3,603.70",0
+8,"Coffee, tea, and spices",Plant Foods,2000,"1,725.20",4.5,"3,441.80",-4.5
+8,"Coffee, tea, and spices",Plant Foods,2001,"1,599.80",-7.3,"2,400.70",-30.2
+8,"Coffee, tea, and spices",Plant Foods,2002,"1,635.50",2.2,"2,455.00",2.3
+8,"Coffee, tea, and spices",Plant Foods,2003,"1,715.00",4.9,"2,871.90",17
+8,"Coffee, tea, and spices",Plant Foods,2004,"1,757.10",2.5,"3,144.30",9.5
+8,"Coffee, tea, and spices",Plant Foods,2005,"1,744.60",-0.7,"3,770.80",19.9
+8,"Coffee, tea, and spices",Plant Foods,2006,"1,825.50",4.6,"4,194.90",11.2
+8,"Coffee, tea, and spices",Plant Foods,2007,"1,850.90",1.4,"4,791.20",14.2
+8,"Coffee, tea, and spices",Plant Foods,2008,"1,882.00",1.7,"5,580.80",16.5
+8,"Coffee, tea, and spices",Plant Foods,2009,"1,823.00",-3.1,"5,160.30",-7.5
+8,"Coffee, tea, and spices",Plant Foods,2010,"1,894.60",3.9,"6,265.00",21.4
+8,"Coffee, tea, and spices",Plant Foods,2011,"2,015.00",6.4,"9,715.80",55.1
+8,"Coffee, tea, and spices",Plant Foods,2012,"2,018.80",0.2,"8,725.70",-10.2
+8,"Coffee, tea, and spices",Plant Foods,2013,"2,087.00",3.4,"7,633.20",-12.5
+8,"Coffee, tea, and spices",Plant Foods,2014,"2,112.40",1.2,"8,298.80",8.7
+8,"Coffee, tea, and spices",Plant Foods,2015,"2,161.00",2.3,"8,536.20",2.9
+8,"Coffee, tea, and spices",Plant Foods,2016,"2,236.70",3.5,"8,310.90",-2.6
+8,"Coffee, tea, and spices",Plant Foods,2017,"2,278.10",1.9,"9,068.80",9.1
+9,Grains,Plant Foods,1999,"6,922.70",0,"2,659.50",0
+9,Grains,Plant Foods,2000,"6,562.70",-5.2,"2,734.80",2.8
+9,Grains,Plant Foods,2001,"7,367.20",12.3,"2,989.80",9.3
+9,Grains,Plant Foods,2002,"6,950.10",-5.7,"3,342.80",11.8
+9,Grains,Plant Foods,2003,"6,137.40",-11.7,"3,618.20",8.2
+9,Grains,Plant Foods,2004,"6,549.20",6.7,"4,010.50",10.8
+9,Grains,Plant Foods,2005,"6,598.20",0.7,"4,240.70",5.7
+9,Grains,Plant Foods,2006,"7,747.10",17.4,"4,910.10",15.8
+9,Grains,Plant Foods,2007,"8,794.60",13.5,"5,914.80",20.5
+9,Grains,Plant Foods,2008,"9,703.40",10.3,"7,689.60",30
+9,Grains,Plant Foods,2009,"8,737.00",-10,"6,846.10",-11
+9,Grains,Plant Foods,2010,"8,556.40",-2.1,"7,137.50",4.3
+9,Grains,Plant Foods,2011,"8,493.80",-0.7,"8,062.80",13
+9,Grains,Plant Foods,2012,"10,593.90",24.7,"9,111.10",13
+9,Grains,Plant Foods,2013,"12,922.80",22,"10,257.00",12.6
+9,Grains,Plant Foods,2014,"11,246.10",-13,"10,030.90",-2.2
+9,Grains,Plant Foods,2015,"10,869.70",-3.3,"10,030.20",0
+9,Grains,Plant Foods,2016,"10,860.40",-0.1,"10,178.60",1.5
+9,Grains,Plant Foods,2017,"11,625.30",7,"10,860.80",6.7
+10,Vegetable oils,Plant Foods,1999,"2,129.60",0,"1,356.90",0
+10,Vegetable oils,Plant Foods,2000,"2,488.30",16.8,"1,362.50",0.4
+10,Vegetable oils,Plant Foods,2001,"2,478.20",-0.4,"1,177.00",-13.6
+10,Vegetable oils,Plant Foods,2002,"2,380.20",-4,"1,301.60",10.6
+10,Vegetable oils,Plant Foods,2003,"2,066.60",-13.2,"1,506.50",15.7
+10,Vegetable oils,Plant Foods,2004,"2,759.40",33.5,"2,241.00",48.8
+10,Vegetable oils,Plant Foods,2005,"2,869.10",4,"2,362.60",5.4
+10,Vegetable oils,Plant Foods,2006,"3,576.70",24.7,"2,818.30",19.3
+10,Vegetable oils,Plant Foods,2007,"3,930.40",9.9,"3,516.70",24.8
+10,Vegetable oils,Plant Foods,2008,"4,839.00",23.1,"5,694.60",61.9
+10,Vegetable oils,Plant Foods,2009,"4,435.70",-8.3,"4,039.40",-29.1
+10,Vegetable oils,Plant Foods,2010,"4,583.60",3.3,"4,508.80",11.6
+10,Vegetable oils,Plant Foods,2011,"5,229.40",14.1,"6,793.60",50.7
+10,Vegetable oils,Plant Foods,2012,"5,012.80",-4.1,"6,235.90",-8.2
+10,Vegetable oils,Plant Foods,2013,"6,278.40",25.2,"6,664.50",6.9
+10,Vegetable oils,Plant Foods,2014,"7,507.70",19.6,"7,336.60",10.1
+10,Vegetable oils,Plant Foods,2015,"6,017.80",-19.8,"6,304.00",-14.1
+10,Vegetable oils,Plant Foods,2016,"6,196.60",3,"6,521.60",3.5
+10,Vegetable oils,Plant Foods,2017,"7,396.30",19.4,"7,224.70",10.8
+11,Sugar and candy,Plant Foods,1999,"2,563.60",0,"1,617.70",0
+11,Sugar and candy,Plant Foods,2000,"2,393.40",-6.6,"1,571.60",-2.8
+11,Sugar and candy,Plant Foods,2001,"2,242.80",-6.3,"1,580.90",0.6
+11,Sugar and candy,Plant Foods,2002,"2,277.10",1.5,"1,842.60",16.6
+11,Sugar and candy,Plant Foods,2003,"2,501.30",9.8,"2,130.80",15.6
+11,Sugar and candy,Plant Foods,2004,"2,572.40",2.8,"2,111.30",-0.9
+11,Sugar and candy,Plant Foods,2005,"3,261.30",26.8,"2,473.70",17.2
+11,Sugar and candy,Plant Foods,2006,"4,037.80",23.8,"3,021.20",22.1
+11,Sugar and candy,Plant Foods,2007,"3,150.50",-22,"2,606.20",-13.7
+11,Sugar and candy,Plant Foods,2008,"3,855.90",22.4,"3,011.00",15.5
+11,Sugar and candy,Plant Foods,2009,"3,571.60",-7.4,"3,081.20",2.3
+11,Sugar and candy,Plant Foods,2010,"4,119.70",15.3,"4,107.40",33.3
+11,Sugar and candy,Plant Foods,2011,"4,896.60",18.9,"5,207.40",26.8
+11,Sugar and candy,Plant Foods,2012,"4,472.70",-8.7,"4,783.50",-8.1
+11,Sugar and candy,Plant Foods,2013,"4,232.60",-5.4,"4,327.40",-9.5
+11,Sugar and candy,Plant Foods,2014,"4,400.40",4,"4,582.30",5.9
+11,Sugar and candy,Plant Foods,2015,"4,602.70",4.6,"4,705.30",2.7
+11,Sugar and candy,Plant Foods,2016,"4,586.90",-0.3,"4,693.20",-0.3
+11,Sugar and candy,Plant Foods,2017,"4,210.50",-8.2,"4,720.50",0.6
+12,Cocoa and chocolate,Plant Foods,1999,923.7,0,"1,522.50",0
+12,Cocoa and chocolate,Plant Foods,2000,998.8,8.1,"1,404.50",-7.8
+12,Cocoa and chocolate,Plant Foods,2001,990.9,-0.8,"1,535.90",9.4
+12,Cocoa and chocolate,Plant Foods,2002,916.2,-7.5,"1,760.90",14.6
+12,Cocoa and chocolate,Plant Foods,2003,"1,046.30",14.2,"2,439.20",38.5
+12,Cocoa and chocolate,Plant Foods,2004,"1,168.20",11.6,"2,484.40",1.9
+12,Cocoa and chocolate,Plant Foods,2005,"1,306.30",11.8,"2,750.60",10.7
+12,Cocoa and chocolate,Plant Foods,2006,"1,254.30",-4,"2,659.20",-3.3
+12,Cocoa and chocolate,Plant Foods,2007,"1,129.20",-10,"2,661.60",0.1
+12,Cocoa and chocolate,Plant Foods,2008,"1,113.90",-1.4,"3,298.80",23.9
+12,Cocoa and chocolate,Plant Foods,2009,"1,169.40",5,"3,476.20",5.4
+12,Cocoa and chocolate,Plant Foods,2010,"1,222.10",4.5,"4,295.20",23.6
+12,Cocoa and chocolate,Plant Foods,2011,"1,312.90",7.4,"4,680.60",9
+12,Cocoa and chocolate,Plant Foods,2012,"1,237.30",-5.8,"4,095.70",-12.5
+12,Cocoa and chocolate,Plant Foods,2013,"1,303.40",5.3,"4,158.80",1.5
+12,Cocoa and chocolate,Plant Foods,2014,"1,295.80",-0.6,"4,728.00",13.7
+12,Cocoa and chocolate,Plant Foods,2015,"1,336.70",3.2,"4,859.70",2.8
+12,Cocoa and chocolate,Plant Foods,2016,"1,365.80",2.2,"5,080.60",4.5
+12,Cocoa and chocolate,Plant Foods,2017,"1,453.80",6.4,"5,006.50",-1.5
+13,Other foods,Plant Foods,1999,883.5,0,"2,121.50",0
+13,Other foods,Plant Foods,2000,930,5.3,"2,101.70",-0.9
+13,Other foods,Plant Foods,2001,"1,125.20",21,"2,252.00",7.1
+13,Other foods,Plant Foods,2002,"1,207.30",7.3,"2,482.00",10.2
+13,Other foods,Plant Foods,2003,"1,229.70",1.9,"3,637.20",46.5
+13,Other foods,Plant Foods,2004,"1,389.80",13,"4,784.40",31.5
+13,Other foods,Plant Foods,2005,"1,443.70",3.9,"5,536.40",15.7
+13,Other foods,Plant Foods,2006,"1,549.50",7.3,"5,963.10",7.7
+13,Other foods,Plant Foods,2007,"1,596.70",3,"6,080.00",2
+13,Other foods,Plant Foods,2008,"1,646.60",3.1,"6,700.80",10.2
+13,Other foods,Plant Foods,2009,"1,429.30",-13.2,"6,111.30",-8.8
+13,Other foods,Plant Foods,2010,"1,597.00",11.7,"6,781.60",11
+13,Other foods,Plant Foods,2011,"1,757.30",10,"8,133.20",19.9
+13,Other foods,Plant Foods,2012,"1,740.60",-0.9,"10,977.60",35
+13,Other foods,Plant Foods,2013,"1,767.00",1.5,"9,831.00",-10.4
+13,Other foods,Plant Foods,2014,"1,875.30",6.1,"9,715.80",-1.2
+13,Other foods,Plant Foods,2015,"1,808.00",-3.6,"9,591.60",-1.3
+13,Other foods,Plant Foods,2016,"1,825.00",0.9,"9,351.00",-2.5
+13,Other foods,Plant Foods,2017,"2,012.40",10.3,"10,133.90",8.4
+14,Beverages,Beverages,1999,"2,965.90",0,"4,411.80",0
+14,Beverages,Beverages,2000,"3,374.80",13.8,"4,815.90",9.2
+14,Beverages,Beverages,2001,"3,691.80",9.4,"5,101.30",5.9
+14,Beverages,Beverages,2002,"3,971.60",7.6,"5,794.70",13.6
+14,Beverages,Beverages,2003,"4,196.40",5.7,"6,597.50",13.9
+14,Beverages,Beverages,2004,"4,377.70",4.3,"7,024.30",6.5
+14,Beverages,Beverages,2005,"4,779.10",9.2,"7,887.50",12.3
+14,Beverages,Beverages,2006,"5,452.20",14.1,"9,212.10",16.8
+14,Beverages,Beverages,2007,"5,595.60",2.6,"9,912.70",7.6
+14,Beverages,Beverages,2008,"5,430.70",-2.9,"9,832.90",-0.8
+14,Beverages,Beverages,2009,"5,077.70",-6.5,"8,721.00",-11.3
+14,Beverages,Beverages,2010,"5,337.70",5.1,"9,262.80",6.2
+14,Beverages,Beverages,2011,"5,552.80",4,"10,142.90",9.5
+14,Beverages,Beverages,2012,"5,978.40",7.7,"10,858.50",7.1
+14,Beverages,Beverages,2013,"5,932.60",-0.8,"11,247.60",3.6
+14,Beverages,Beverages,2014,"6,211.40",4.7,"11,964.00",6.4
+14,Beverages,Beverages,2015,"6,702.70",7.9,"12,785.70",6.9
+14,Beverages,Beverages,2016,"7,159.60",6.8,"13,492.90",5.5
+14,Beverages,Beverages,2017,"7,530.60",5.2,"14,382.90",6.6
